@@ -1,0 +1,1 @@
+{"buildTargets":["mock-repositories","mock-usecase","run","swag-fmt","swag-init"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
